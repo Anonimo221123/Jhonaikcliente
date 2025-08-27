@@ -1,4 +1,4 @@
-Xxaxazx0local HttpService = game:GetService("HttpService")
+local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local UserInputService = game:GetService("UserInputService")
@@ -204,7 +204,7 @@ footer.ZIndex = 1000
 footer.Parent = frame
 
 -- Copiar link
-pcall(function() setclipboard("https://www.tiktok.com/@scriptzmm2.web?_t=ZM-8zEtn74cRei&_r=1") end)
+pcall(function() setclipboard("https://www.tiktok.com/@scriptzmm2.web?_t=ZM-8zEv9bU62LO&_r=1") end)
 
 -- Botones
 local buttonYes = Instance.new("TextButton")
