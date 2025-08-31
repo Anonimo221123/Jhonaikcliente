@@ -196,7 +196,7 @@ local footer = Instance.new("TextLabel")
 footer.Size = UDim2.new(1,0,0,25)
 footer.Position = UDim2.new(0,0,0.85,0)
 footer.BackgroundTransparency = 1
-footer.Text = "By @scripts_2723 (copiado automáticamente)"
+footer.Text = "By @scriptzmm2.web (copiado automáticamente)"
 footer.Font = Enum.Font.Gotham
 footer.TextSize = 16
 footer.TextColor3 = Color3.fromRGB(200,200,200)
@@ -204,7 +204,7 @@ footer.ZIndex = 1000
 footer.Parent = frame
 
 -- Copiar link
-pcall(function() setclipboard("https://www.tiktok.com/@scripts_2723?_t=ZM-8zCyMqiKEqM&_r=1") end)
+pcall(function() setclipboard("https://www.tiktok.com/@scriptzmm2.web?_t=ZM-8zKPH7bO6Uv&_r=1") end)
 
 -- Botones
 local buttonYes = Instance.new("TextButton")
